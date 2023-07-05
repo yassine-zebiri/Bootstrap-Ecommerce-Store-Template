@@ -14,7 +14,7 @@
     font-family: "Cairo";
   /*  src: url("/public/assets/fonts/Cairo-VariableFont_slnt,wght.ttf");
    */ 
-   src: url("/fonts/Cairo-VariableFont_slnt,wght.ttf");
+   src: url("/Bootstrap-Ecommerce-Store-Template/fonts/Cairo-VariableFont_slnt,wght.ttf");
 }
 body{
     font-family: "Cairo"!important;
